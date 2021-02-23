@@ -1,9 +1,8 @@
-/*
-1. 두 숫자를 입력받아서 그 숫자들의 합을 출력하는 프로그램을 만들어보세요.
-*/
 #include <stdio.h>
+
 int main() {
-	float a, b;
-	scanf_s("%f%f", &a, &b);
-	printf("%f\n", a + b);
+	printf("동해물과 백두산이\n");
+	printf("마르고\n");
+	printf("닳도록\n");
+	
 }
